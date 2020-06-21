@@ -13,7 +13,7 @@ const App = () => {
       <div className="container">
         <div className="app-wrapper">
           <Header />
-          <Balances />
+          <Balance />
           <AddTransaction />
           <IncomeList /> 
           <ExpenseList />
