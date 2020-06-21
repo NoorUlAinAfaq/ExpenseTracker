@@ -6,7 +6,6 @@ import ExpenseList from "./components/ExpenseList";
 import AddTransaction from "./components/AddTransaction";
 import { GlobalContextProvider } from "./context/GlobalState";
 import "./App.css";
-import Balances from "./components/Balances";
 
 const App = () => {
   return (
